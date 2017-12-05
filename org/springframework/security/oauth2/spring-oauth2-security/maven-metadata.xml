@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.security.oauth2</groupId>
+  <artifactId>spring-oauth2-security</artifactId>
+  <versioning>
+    <release>v1.0-RELEASE</release>
+    <versions>
+      <version>v1.0-RELEASE</version>
+    </versions>
+    <lastUpdated>20171205080143</lastUpdated>
+  </versioning>
+</metadata>
